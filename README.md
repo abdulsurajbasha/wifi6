@@ -5,7 +5,7 @@
 ### Core Azure Services :1. Static web app 2.Azure Blob storage
 ### Azure AI Service : Azure Ai Bot service.
 ### Azure static web page url :https://black-mushroom-0fbc81e10.4.azurestaticapps.net
-### Youtube demo url:
+### Youtube demo url:https://www.youtube.com/watch?v=RF69r75VxYk
 ### github url:https://abdulsurajbasha.github.io/wifi6/
 
 ### Azure Technology Screen shots:
