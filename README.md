@@ -6,7 +6,7 @@
 ### Azure AI Service : Azure Ai Bot service.
 ### Azure static web page url :https://black-mushroom-0fbc81e10.4.azurestaticapps.net
 ### Youtube demo url:
-### github url:
+### github url:https://abdulsurajbasha.github.io/wifi6/
 
 ### Azure Technology Screen shots:
 #### Resources page:
